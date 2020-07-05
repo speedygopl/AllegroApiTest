@@ -1,0 +1,15 @@
+{
+  "offerCriteria": [
+    {
+      "offers": [
+        {
+          "id": "string"
+        }
+      ],
+       "type": "CONTAINS_OFFERS"
+    }
+  ],
+  "publication": {
+    "action": "END"
+   }
+}
